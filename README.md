@@ -1,6 +1,10 @@
 PROJECT DESCRIPTION
+
 Project Grade: A
+
 Completed: 05/03/2021
+
+
 this program is a simulation of 40 years of making either smart financial decisions vs. 40 years of making not smart financial decisions.
 
 This program accomplishes this by creating two objects that behave as people who make financial decisions. There are also functions that simulate the persons financial decisions such as debt functions, a house function that simulates mortgage payments, a savings function that simulates how someone saves money, a rent function to simulate renting an apartment, and a simulate function that runs 40 years of financial decisions.
